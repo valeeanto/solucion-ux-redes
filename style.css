@@ -1,0 +1,26 @@
+body{
+    font-family: Mochiy Pop One;
+    background-color: rgb(255, 210, 156);
+    align-items: center;
+    line-height: 1.6;
+}
+.problema{ 
+    color: #ff5100; 
+}
+.solucion{
+    color: rgb(73, 88, 48);
+}
+footer{
+    background-color: rgb(255, 174, 0);
+}
+header{
+    background-color: rgb(255, 174, 0);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+main{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
