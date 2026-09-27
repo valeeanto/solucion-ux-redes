@@ -1,0 +1,21 @@
+body{
+    font-family: Mochiy Pop One;
+    background-color: rgb(255, 210, 156);
+}
+.problema{ 
+    color: #ff5100; 
+}
+.solucion{
+    color: rgb(73, 88, 48);
+}
+footer{
+    background-color: rgb(255, 174, 0);
+}
+header{
+    background-color: rgb(255, 174, 0);
+    padding: 20px;
+}
+main{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
